@@ -3,14 +3,13 @@ I am a fullstack software engineer from Israel
 - 🔭 I have experiance working on multiple frontend and backend projects, mostly using React and Nodejs
 - 🔭 I've worked with MongoDB, MySQL and PostgreSQL 
 
-<br>
-<h3>Connect with me</h3>
+<h2>Connect with me</h2>
 <a href="https://www.linkedin.com/in/barakbrudo"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.facebook.com/barak.brudo/"><img align="left" alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="mailto:mr.lightning@gmail.com"><img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br>
 <br>
-<h3>Expertise</h3>
+<h2>Expertise</h2>
 <div>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -29,7 +28,7 @@ I am a fullstack software engineer from Israel
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-<img align="left" alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" />
+<img align="left" alt="Strapi" href="_blank" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" />
 </div>
 <br>
 <br>
