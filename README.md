@@ -4,10 +4,10 @@ I am a fullstack software engineer from Israel
 - 🔭 I've worked with MongoDB, MySQL and PostgreSQL 
 
 <br>
-### Connect with me
+<h3>Connect with me</h3>
 <a href="https://www.linkedin.com/in/barakbrudo"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.facebook.com/barak.brudo/"><img align="left" alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="mailto:<nowiki>mr.lightning@gmail.com"><img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:mr.lightning@gmail.com"><img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br>
 <br>
 ### Expertise
